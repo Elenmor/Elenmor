@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Elena! 👋
 
 <!--
-**Elenmor/Elenmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я QA Инженер
 
-Here are some ideas to get you started:
+Email: evgeniyaokuneva85@gmail.com
+Contacts:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
