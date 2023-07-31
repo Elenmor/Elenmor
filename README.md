@@ -36,7 +36,7 @@
   <code><img width="5%" title="Jira" src="images/logo/jira.png"></code>
   <code><img width="5%" title="Confluence" src="images/logo/confluence.png"></code>
   <code><img width="5%" title="Postman" src="images/logo/postman.png"></code>
-  <code><img width="5%" title="SoapUI" src="images/logo/soapui.png"></code>  
+  <code><img width="5%" title="Soapui" src="images/logo/soapui.png"></code>  
 </p>
 
 ## 💾 Дипломный проект:
